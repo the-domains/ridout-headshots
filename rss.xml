@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ridout Headshots]]></title>
         <description><![CDATA[Ridout Headshots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ridout-headshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 15:50:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 15:51:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ridout-headshots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[It's time for a new headshot]]></title>
             <description><![CDATA[<article><h1>It's time for a new headshot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fd0539084dab2fad1489e6286ab768515d3a2f6.jpg"></article>]]></description>
-            <link>undefinedits-time-for-a-new-headshot/index.html</link>
+            <link>https://thegrid.ai/ridout-headshots/its-time-for-a-new-headshot/index.html</link>
             <guid isPermaLink="false">48791c61-83bd-4fc9-b4fd-93fe13defecc</guid>
             <pubDate>Tue, 05 Jan 2016 15:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e470ec1-d419-4941-9d10-2008c501ed05.jpg">]]></description>
+            <link>https://thegrid.ai/ridout-headshots/d8a0ccb7-a869-44b5-8582-489066ce9105/index.html</link>
+            <guid isPermaLink="false">d8a0ccb7-a869-44b5-8582-489066ce9105</guid>
+            <pubDate>Tue, 05 Jan 2016 15:51:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
