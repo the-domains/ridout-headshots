@@ -4,8 +4,15 @@
         <description><![CDATA[Making People Beautiful One Click At A Time]]></description>
         <link>https://thegrid.ai/ridout-headshots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 21:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 21:05:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ridout-headshots/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97bb1ae751dc2baadc24dae21568e25a3dc5a5ba.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ridout-headshots/ef2fb793-0243-4de1-bdb5-9e944d90ffd2/index.html</link>
+            <guid isPermaLink="false">ef2fb793-0243-4de1-bdb5-9e944d90ffd2</guid>
+            <pubDate>Tue, 12 Jan 2016 21:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e470ec1-d419-4941-9d10-2008c501ed05.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.cbc.ca/news/canada/kitchener-waterloo/puslinch-barn-fire-horses-1.3389620</link>
             <guid isPermaLink="false">73ecbb07-bb15-487c-ae8b-3cf610fbdf75</guid>
             <pubDate>Tue, 05 Jan 2016 21:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/522dcd7a-4652-4475-bb23-744d414995b2.jpg">]]></description>
-            <link>https://thegrid.ai/ridout-headshots/ef2fb793-0243-4de1-bdb5-9e944d90ffd2/index.html</link>
-            <guid isPermaLink="false">ef2fb793-0243-4de1-bdb5-9e944d90ffd2</guid>
-            <pubDate>Tue, 05 Jan 2016 15:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
