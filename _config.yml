@@ -1,6 +1,6 @@
 name: Ridout Headshots
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.45951
 typography_spectrum: 0.23911
 title: Making People Beautiful One Click At A Time
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0.3291511267889291
   saturation: 0.6430127986241132
-  rhythmicContrast: 0.7289209510199726
+  rhythmicContrast: 0.5
 purpose: []
